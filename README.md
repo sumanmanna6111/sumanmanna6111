@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning About Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email - mannasuman39@gmail.com
-- 📫 Protfolio - [https://sumanmanna6111.github.io/](https://sumanmanna6111.github.io/)
+- 📫 Portfolio - [https://sumanmanna6111.github.io/](https://sumanmanna6111.github.io/)
 
 <!---
 sumanmanna6111/sumanmanna6111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
